@@ -1,0 +1,2 @@
+# MailChimp
+MailChimp Templates
